@@ -1,0 +1,2 @@
+# GuangsZuo
+my blog repo
